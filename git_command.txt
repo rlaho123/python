@@ -1,0 +1,14 @@
+처음 만들 때 git clone
+
+반복:
+
+(올리는 거)
+git stauts
+git add .
+git commit -m  "원하는 말"
+git push
+
+(받는 거)
+git fetch
+git pull
+
